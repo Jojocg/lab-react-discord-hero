@@ -1,3 +1,5 @@
+/*try color for background-color: #646cffaa */
+
 :root {
   font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
   line-height: 1.5;
@@ -7,10 +9,10 @@
   color: rgba(255, 255, 255, 0.87);
   background-color: #646cffaa;
 
-  font-synthesis: none;
+  /* font-synthesis: none;
   text-rendering: optimizeLegibility;
   -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+  -moz-osx-font-smoothing: grayscale; */
 }
 
 /* a {

@@ -5,12 +5,27 @@
   text-align: center;
 }
 
+/* .App {
+  position: relative;
+} */
+
+.discord-navbar {
+  position: fixed;
+  width: 100%;
+  top: 0;
+  left: 0;
+  display: flex;
+  justify-content: space-between;
+}
+
 .discord-logo {
   height: 2em;
   padding: 1.5em;
 }
-.logo:hover {
-  filter: drop-shadow(0 0 2em #646cffaa);
+
+.menu-icon {
+  height: 2.5em;
+  padding: 1.5em;
 }
 
 
