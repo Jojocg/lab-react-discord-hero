@@ -3,8 +3,8 @@
 export default function Navbar() {
   return (
     <nav>
-      <img src="../src/assets/discord-logo-white.png" alt="discord-logo" />
-      <img src="../src/assets/menu-icon.png" alt="menu-icon" />
+      <img className="discord-logo" src="../src/assets/discord-logo-white.png" alt="discord-logo" />
+      <img className="menu-icon" src="../src/assets/menu-icon.png" alt="menu-icon" />
     </nav>
   );
 }
